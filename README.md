@@ -1,7 +1,5 @@
-1) docker build . -t krabaton/app_test
-or
-<!-- docker build -t your_image_name . -->
-docker build . -t fghdxfvdxfvdf/web_base
+Link на Докерхаб:
+[docker push fghdxfvdxfvdf/web_base:tagname
+](https://hub.docker.com/repository/docker/fghdxfvdxfvdf/web_base/general)https://hub.docker.com/repository/docker/fghdxfvdxfvdf/web_base/general
 
-2) docker run -it your_image_name
-
+1) docker push fghdxfvdxfvdf/web_base
